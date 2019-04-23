@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/arjunsingh/Documents/Projects/Workspace/MEAN/React/mystore/mystoreapp/platforms/android/CordovaLib/src/main/shaders"/></dataSet><dataSet config="debug"><source path="/Users/arjunsingh/Documents/Projects/Workspace/MEAN/React/mystore/mystoreapp/platforms/android/CordovaLib/src/debug/shaders"/></dataSet></merger>
